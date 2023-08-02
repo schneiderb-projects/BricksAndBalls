@@ -432,12 +432,3 @@ int bb_init() {
 
   return 0;
 }
-
-// int main(int argc, char** argv) {
-//     bb_init();
-//     // bb_print_bricks();
-//     printf("\n\n\n");
-//     bb_update_bitmap();
-//     bb_print_bitmap();
-//     return 0;
-// }
