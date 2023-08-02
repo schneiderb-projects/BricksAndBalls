@@ -20,7 +20,6 @@ Emulating the old Blackberry Brick-Breaker game using an Arduino Uno.
 |CS | pin 12|
 
 ### 16x2 LCD Character Dipslay
-rs = 2, en = 3, d4 = 4, d5 = 5, d6 = 6, d7 = 7;
 | 16x2 | Arduino|
 |------|--------|
 |RS | pin 2|
