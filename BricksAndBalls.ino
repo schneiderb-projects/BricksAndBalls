@@ -131,7 +131,7 @@ void lcd_handle_loser() {
     lcd.setCursor(0, 0);
     lcd.print("LOSER! LOSER!");
     lcd.setCursor(0, 1);
-    lcd.print("YOU SUCK, PUSSY!");
+    lcd.print("YOU SUCK, LOSER!");
   }
 }
 
