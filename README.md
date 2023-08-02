@@ -44,3 +44,6 @@ rs = 2, en = 3, d4 = 4, d5 = 5, d6 = 6, d7 = 7;
 | 2nd Pot | Arduino|
 |------|--------|
 |Output | pin A0|
+
+## Game Play
+Select your desired difficulty using the Difficulty Selector Potentiometer, press the Start Button to start the game, then use the Padal Controller Potentiometer to move the padal to bounce the ball. Miss the ball with the padal you lose! Destroy all the bricks without missing the ball and you win! 
