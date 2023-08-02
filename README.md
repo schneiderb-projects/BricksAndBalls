@@ -2,11 +2,11 @@
 Emulating the old Blackberry Brick-Breaker game using an Arduino Uno.
 
 ## Necessary Supplies: 
-Arduino Uno
-Nokia 5110 LCD display
-16x2 LCD Character display
-1 Push Button
-2 Potentiometers
+- Arduino Uno
+- Nokia 5110 LCD display
+- 16x2 LCD Character display
+- 1 Push Button
+- 2 Potentiometers
 
 ## Wiring
 
